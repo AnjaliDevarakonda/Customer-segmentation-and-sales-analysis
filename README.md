@@ -1,4 +1,4 @@
-# Customer-segmentation-and-sales-analysis
+# Customer segmentation and sales analysis
 This project aims to analyze customer purchasing behaviors and segment them into distinct groups for targeted marketing and sales optimization. By utilizing data analytics and machine learning techniques, we identify key customer segments based on factors like total_price, quantity, unit_price, and reward_points. The project leverages Hierarchical Clustering for customer segmentation and performs various exploratory data analysis (EDA) tasks to understand patterns and relationships in the dataset.
 
 
